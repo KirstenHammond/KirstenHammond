@@ -40,4 +40,3 @@ When I'm not in the butter zone💻, you can find me snowboarding / climbing / m
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/201476472-d2f5f644-cfc9-43e5-96d3-c8f40f18b5cb.png" alt="Chai" title="Chai" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/201476630-f47cfff6-fdee-4ee1-9092-1793b71b1ca3.png" alt="Mocha" title="Mocha" /></code>
 </div>
-<!--Testing>
