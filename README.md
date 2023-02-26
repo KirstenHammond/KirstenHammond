@@ -1,15 +1,15 @@
-<h1 align="center" style="font-weight: 300" >Hi, I'm Kirsten.</h1>
-<h3 align="center" style="font-weight: 200">Full Stack Web Dev with a minimalist aesthetic and a pathological love for detail.</h3>
+<h1 align="center">Hi, I'm Kirsten.</h1>
+<h3 align="center">Full Stack Web Developer with a minimalist aesthetic and a pathological love for detail.</h3>
 
 </br>
 
-<h3 style="font-weight: 100">Connect <a href="https://linkedin.com/in/kirstenhammond1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirstenhammond1" height="18" width="27" /></a> </h3>
+<h3>Connect <a href="https://linkedin.com/in/kirstenhammond1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirstenhammond1" height="18" width="27" /></a> </h3>
 
-<h3 style="font-weight:100">Resume <a href="./KirstenHammondResume.pdf">📄</a> </h3>
+<h3>Resume <a href="./KirstenHammondResume.pdf">📄</a> </h3>
 
 </br>
 
-<h3 style="font-weight:100">Stack</h3>
+<h3> Stack </h3>
 <div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/192603745-7d34df9e-7756-4756-a539-6a61badf7a80.png" alt="Ruby" title="Ruby" /></code>
@@ -33,10 +33,5 @@
 
 <br/>
 
-<h3 style="font-weight:100">Stats</h3>
+<h3>Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/><img src="https://github-readme-stats.vercel.app/api?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirstenhammond&theme=dark&hide_border=true"/>
-
-</br>
-
-<h3 style="font-weight:100">Glory</h3>
-<img src="https://github-profile-trophy.vercel.app/?username=kirstenhammond&theme=onedark&no-frame=false&no-bg=true&margin-w=4"/>
