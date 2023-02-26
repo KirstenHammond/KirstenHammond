@@ -1,5 +1,9 @@
-<h1 align="center">Hi, I'm Kirsten.</h1>
-<h3 align="center">Full Stack Web Developer with a minimalist aesthetic and a pathological love for detail.</h3>
+<h1>Hi, I'm Kirsten.</h1>
+<h3>Full Stack Web Developer with a minimalist aesthetic and a pathological love for detail.</h3>
+
+<br/>
+
+When I'm not in the butter zone💻, you can find me snowboarding / climbing / mountain biking / making pottery / sewing / gardening in Squamish, BC 🏔️
 
 </br>
 
