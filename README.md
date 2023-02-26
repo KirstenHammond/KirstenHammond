@@ -1,11 +1,11 @@
 <h1 align="center">Hi, I'm Kirsten.</h1>
-<h3 align="center">A full stack developer with a minimalist aesthetic and a pathological love for detail.</h3>
+<h3 align="center">Full Stack Web Dev with a minimalist aesthetic and a pathological love for detail.</h3>
 
 
 ### Connect <a href="https://linkedin.com/in/kirstenhammond1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kirstenhammond1" height="18" width="27" /></a>
 </p>
 
-### Resume [📄](https://resume.creddle.io/resume/dkjrpclpas5)
+### Resume [📄](./Kirsten%20Hamond%20Resume.pdf)
 
 </br>
 
