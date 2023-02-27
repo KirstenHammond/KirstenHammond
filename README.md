@@ -18,7 +18,7 @@ When I'm not in the butter zone💻, you can find me snowboarding / climbing / m
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/><img src="https://github-readme-stats.vercel.app/api?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirstenhammond&theme=dark&hide_border=true"/>
 
 
-<!-- >
+<!-- Single icons. Keep incase I want to revert back.>
 <h3> Stack </h3>
 <div>
 	<code><img height="50" src="https://user-images.githubusercontent.com/25181517/117447155-6a868a00-af3d-11eb-9cfe-245df15c9f3f.png" alt="JavaScript" title="JavaScript" /></code>
