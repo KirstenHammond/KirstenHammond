@@ -20,10 +20,14 @@ Learning:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
 <h3>Stats</h3>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/><img src="https://github-readme-stats.vercel.app/api?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirstenhammond&theme=dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact"/>
 
 
 <!-- Single icons. Keep incase I want to revert back.>
+
+<img src="https://github-readme-stats.vercel.app/api?username=kirstenhammond&theme=dark&hide_border=true&include_all_commits=false&count_private=true"/><img src="https://github-readme-streak-stats.herokuapp.com/?user=kirstenhammond&theme=dark&hide_border=true"/>
+
+
 <h3> Stack </h3>
 <div>
 
